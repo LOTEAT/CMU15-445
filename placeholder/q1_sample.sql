@@ -1,1 +1,3 @@
-select CategoryName from Category order by CategoryName;
+SELECT CategoryName
+FROM Category
+ORDER BY CategoryName ASC;
